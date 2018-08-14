@@ -1,2 +1,3 @@
 # hello-world
-Repositório para o Quick Guide
+## My name is Rodrigo Ferreira
+## This is my first edition in GitHub
